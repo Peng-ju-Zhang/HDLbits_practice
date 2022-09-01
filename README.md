@@ -12,6 +12,7 @@ Your circuit is checked for correctness by simulating with a set of test vectors
 
 ## 当前进度
 Vectors ：Vector part select  
+Circuits：Finite State Machines Lemmings1 2022.09.01  
 
 
 
